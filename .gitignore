@@ -4,4 +4,4 @@ target/
 .idea
 .project
 target
-.zip
+*.zip
